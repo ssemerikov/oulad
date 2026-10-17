@@ -1,0 +1,17 @@
+﻿feature,group,type
+gender,demographic,categorical
+region,demographic,categorical
+highest_education,demographic,categorical
+imd_band,demographic,categorical
+age_band,demographic,categorical
+disability,demographic,categorical
+num_of_prev_attempts,demographic,numeric
+studied_credits,demographic,numeric
+code_module,course,categorical
+date_registration,course,numeric
+total_clicks,vle_activity,numeric
+active_days,vle_activity,numeric
+mean_score,assessments,numeric
+n_assessments,assessments,numeric
+share_submitted,assessments,numeric
+has_submissions,assessments,numeric

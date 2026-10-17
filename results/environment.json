@@ -1,0 +1,24 @@
+{
+  "python": "3.10.12",
+  "platform": "Linux-5.15.0-198-generic-x86_64-with-glibc2.35",
+  "processor": "x86_64",
+  "cpu_count": 8,
+  "pandas": "2.2.3",
+  "numpy": "2.0.2",
+  "scikit_learn": "1.6.1",
+  "scipy": "1.15.3",
+  "joblib": "1.5.2",
+  "matplotlib": "3.9.4",
+  "seaborn": "0.13.2",
+  "random_state": 42,
+  "windows": [
+    "W30",
+    "W60",
+    "W90",
+    "FULL"
+  ],
+  "cv_folds": 5,
+  "cv_repeats": 3,
+  "tune": false,
+  "exclude_exam": true
+}

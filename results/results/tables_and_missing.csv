@@ -1,0 +1,7 @@
+﻿table,rows,cols,missing_by_column
+courses,22,3,{}
+studentInfo,32593,12,"{""imd_band"": 1111}"
+studentRegistration,32593,5,"{""date_registration"": 45, ""date_unregistration"": 22521}"
+assessments,206,6,"{""date"": 11}"
+studentAssessment,173912,5,"{""score"": 173}"
+studentVle,10655280,5,{}

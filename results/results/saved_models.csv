@@ -1,0 +1,17 @@
+﻿window,model,file,size_kb,reload_identical
+W30,LogisticRegression,models\W30\LogisticRegression.joblib,6.7,True
+W30,DecisionTree,models\W30\DecisionTree.joblib,98.4,True
+W30,RandomForest,models\W30\RandomForest.joblib,14366.3,True
+W30,GradientBoosting,models\W30\GradientBoosting.joblib,144.8,True
+W60,LogisticRegression,models\W60\LogisticRegression.joblib,6.7,True
+W60,DecisionTree,models\W60\DecisionTree.joblib,93.4,True
+W60,RandomForest,models\W60\RandomForest.joblib,13090.5,True
+W60,GradientBoosting,models\W60\GradientBoosting.joblib,144.6,True
+W90,LogisticRegression,models\W90\LogisticRegression.joblib,6.7,True
+W90,DecisionTree,models\W90\DecisionTree.joblib,88.4,True
+W90,RandomForest,models\W90\RandomForest.joblib,11838.7,True
+W90,GradientBoosting,models\W90\GradientBoosting.joblib,144.8,True
+FULL,LogisticRegression,models\FULL\LogisticRegression.joblib,6.7,True
+FULL,DecisionTree,models\FULL\DecisionTree.joblib,72.0,True
+FULL,RandomForest,models\FULL\RandomForest.joblib,9540.4,True
+FULL,GradientBoosting,models\FULL\GradientBoosting.joblib,144.1,True

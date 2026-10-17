@@ -1,0 +1,25 @@
+{
+  "window": "W60",
+  "cutoff_day": 60,
+  "features": [
+    "gender",
+    "region",
+    "highest_education",
+    "imd_band",
+    "age_band",
+    "disability",
+    "num_of_prev_attempts",
+    "studied_credits",
+    "code_module",
+    "date_registration",
+    "total_clicks",
+    "active_days",
+    "mean_score",
+    "n_assessments",
+    "share_submitted",
+    "has_submissions"
+  ],
+  "target": "1=Pass/Distinction, 0=Fail/Withdrawn",
+  "sklearn": "1.9.1",
+  "best_model_by_cv": "GradientBoosting"
+}
