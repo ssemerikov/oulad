@@ -124,12 +124,6 @@ Notes on saved models
 
 The .joblib files are pickled scikit-learn pipelines. They depend on the scikit-learn version used for training (1.9.1) and should only be loaded from trusted sources.
 
-Citation
-
-If you use the dataset, please cite:
-
-Kuzilek J., Hlosta M., Zdrahal Z. Open University Learning Analytics dataset. Scientific Data. 2017. Vol. 4. Art. 170171. https://doi.org/10.1038/sdata.2017.171
-
 Author
 
 Sofiia Velychko
