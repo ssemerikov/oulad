@@ -1,6 +1,5 @@
 Early identification of at-risk students on OULAD: a comparison of machine learning methods
 
-Code accompanying the master's thesis "Comparative Analysis of Machine Learning Methods for Predicting Students' Academic Success".
 
 The script compares four classifiers — logistic regression, decision tree, random forest and gradient boosting — on the Open University Learning Analytics Dataset (OULAD). The task is binary classification of a student × module × presentation record:
 
